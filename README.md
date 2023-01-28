@@ -1,4 +1,4 @@
-### Olá, eu sou o Danilo 👋
+### Olá, me chamo Danilo 👋
 
 🔭 Atualmente estou trabalhando com .NET e Angular\
 🤔 "Programe como se a pessoa que fosse dar manutenção no seu código seja um psicopata que sabe onde você mora" (John Woods)
